@@ -1,0 +1,59 @@
+body{
+  background-image: url(background.jpg);
+  font-family: arial;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header{
+  text-align: center;
+  }
+
+img{
+  width: 250px;
+  }
+
+h1 {
+  color: lime;
+  }
+
+nav{
+  text-align: center;
+  background-color: lime;
+  padding: 15px;
+  }
+
+.statocarica1{
+  background-color: orange;
+  width: 400px;
+  height: 30px;
+  border-radius: 10px;
+  }
+
+.statocarica2{
+    background-color: green;
+    width: 650px;
+    height: 30px;
+    border-radius: 10px;
+    }
+
+.statocarica3{
+  background-color: red;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px
+}
+
+.contenitore{
+  background-color: rgba(0,0,0,0.5);
+  margin-left: 300px;
+  margin-right: 300px;
+  padding: 60px;
+  margin-top: 110px;
+  border-radius: 20px;
+}
+
+main{
+  color: white;
+  font-size: 20px
+}
